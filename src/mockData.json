@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "nickname": "써뉴",
+    "title": "첫 번째 게시글",
+    "content": "이것은 첫 번째 게시글의 내용입니다.",
+    "postPassword": "0000",
+    "groupPassword": "0000",
+    "imageUrl": "../assets/image=img1.png",
+    "tags": ["일상", "생활"],
+    "location": "내 집",
+    "date": "2024-02-21",
+    "isPublic": true
+  },
+  {
+    "id": 2,
+    "nickname": "seonyu",
+    "title": "두 번째 게시글",
+    "content": "이것은 두 번째 게시글의 내용입니다.",
+    "postPassword": "0000",
+    "groupPassword": "0000",
+    "imageUrl": "../assets/image=img2.png",
+    "tags": ["태그", "생활"],
+    "location": "야외",
+    "date": "2024-02-21",
+    "isPublic": true
+  }
+]

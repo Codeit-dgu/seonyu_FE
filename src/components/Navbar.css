@@ -1,0 +1,13 @@
+.navbar {
+  width: 1920px; /* 고정 너비 */
+  height: 100px; /* 고정 높이 */
+  flex-shrink: 0; /* 축소되지 않도록 설정 */
+  background: var(--gray-gray_FAFAFA, #fafafa);
+}
+
+.logo {
+  padding-left: 873px;
+  padding-right: 970px;
+  padding-top: 26px;
+  padding-bottom: 26px;
+}

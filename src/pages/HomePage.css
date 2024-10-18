@@ -1,0 +1,44 @@
+.homeSelect {
+  margin-left: 20px;
+}
+#publicButton {
+  border-radius: 22.5px;
+  background: var(--black-black_282828, #ffffff);
+  color: var(--black-black_282828, #282828);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.42px;
+  margin-right: 20px;
+}
+#publicButton:focus {
+  width: 78px;
+  height: 45px;
+  flex-shrink: 0;
+  border-radius: 22.5px;
+  background: var(--black-black_282828, #282828);
+  color: var(--white-white_FFFFFF, #fff);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.42px;
+}
+.createMemory {
+  width: 200px;
+  height: 45px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background: var(--black-black_282828, #282828);
+  color: var(--gray-gray_FAFAFA, #fafafa);
+  text-align: center;
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.42px;
+}

@@ -1,0 +1,110 @@
+.listContainer {
+  padding: 20px;
+}
+.postContainer {
+  width: 1560px;
+  height: 205px;
+  flex-shrink: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+.selectLine {
+  margin-bottom: 20px;
+}
+#postInfoText {
+  color: var(--black-black_282828, #282828);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.48px;
+}
+.deleteButton {
+  color: var(--gray-gray_8D8D8D, #8d8d8d);
+  text-align: center;
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.42px;
+  padding-left: 1482px;
+}
+.postTitle {
+  color: var(--black-black_282828, #282828);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.9px;
+  margin-bottom: 20px;
+}
+.tagText {
+  color: var(--gray-gray_B8B8B8, #b8b8b8);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: -0.54px;
+}
+.bottomText {
+  color: var(--black-black_282828, #282828);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: -0.48px;
+  padding-right: 10px;
+}
+.postDetailTopContainer {
+  padding-left: 180px;
+  padding-right: 180px;
+  padding-top: 60px;
+}
+#vector {
+  width: 1560px;
+  height: 0px;
+  flex-shrink: 0;
+  stroke-width: 1px;
+  stroke: var(--gray-gray_DDDDDD, #ddd);
+  opacity: 0.5;
+}
+.postDetailcontentContainer {
+  padding-left: 570px;
+  padding-right: 570px;
+}
+.imgContainer {
+  border-radius: 6px;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.img {
+  width: 780px;
+  height: 780px;
+  flex-shrink: 0;
+}
+.content {
+  color: var(--black-black_282828, #282828);
+  font-family: "Spoqa Han Sans Neo";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 140% */
+  letter-spacing: -0.6px;
+  margin-bottom: 60px;
+}
+.listButton {
+  width: 400px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background: var(--black-black_282828, #282828);
+  margin-left: 761px;
+  margin-right: 759px;
+  margin-bottom: 654px;
+}
